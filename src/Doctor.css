@@ -1,0 +1,378 @@
+.logo1{
+  position: absolute;
+width: 101.2px;
+height: 100px;
+left: 1px;
+top: 9px;
+margin-top: 20px;
+border-radius: 100px;
+}
+#head{
+  text-align: justify;
+  font-size: 60px;
+  color: #3A8E7a;
+  margin-top: 50px;
+  font-family:Arial, Helvetica, sans-serif;
+  padding-left: 110px;
+}
+#drop{
+
+  box-sizing: border-box;
+
+  position: absolute;
+  width: 128px;
+  height: 73px;
+  left: 224px;
+  top: 141px;
+  
+background: #D9D9D9;
+  border-radius: 100px;
+  
+}
+#menu{
+  padding: 20;
+}
+.main {
+  display: flex;
+  height: 100vh;
+  width: 100%;
+  align-items: center;
+  flex-direction: column;
+  row-gap: 20px;
+}
+
+h1 {
+  margin: 10px;
+  font-size: 40px;
+  color: rgb(1, 1, 59);
+}
+
+.search {
+  width: 30%;
+}
+
+ul li {
+  font-size: 20px;
+} 
+.Doc1{
+  position: absolute;
+width: 48px;
+height: 48px;
+left: 1210px;
+top: 56px;
+}
+.Doc2{
+  box-sizing: border-box;
+
+position: absolute;
+width: 275px;
+height: 260px;
+left: 90px;
+top: 154px;
+mix-blend-mode: multiply;
+border-radius: 100px;
+}
+.box1{
+  position: absolute;
+width: 646px;
+height: 241px;
+left: 569px;
+top: 154px;
+
+background: #D9D9D9;
+border-radius: 30px;
+}
+.box{
+  box-sizing: border-box;
+position: absolute;
+width: 218px;
+height: 54px;
+left: 1200px;
+top: 52px;
+background: #EAE4E4;
+border: 1px solid rgba(55, 134, 115, 0.94);
+border-radius: 60px;
+}
+#txt{
+  position: absolute;
+  width: 85px;
+  height: 31px;
+  left: 1270px;
+  top: 52px;
+  
+  font-family: 'Jost';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 26px;
+}
+#info{
+  position: absolute;
+width: 44px;
+height: 35px;
+left: 596px;
+top: 150px;
+
+font-family: 'Monomaniac One';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 35px;
+/* identical to box height */
+
+text-transform: uppercase;
+
+color: #156C78;
+
+}
+#line2{
+  position: absolute;
+width: 327px;
+height: 52px;
+left: 576px;
+top: 160px;
+
+font-family: 'Monomaniac One';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 52px;
+text-align: center;
+text-transform: uppercase;
+
+color: #156C78;
+}
+#line3{
+  position: absolute;
+width: 242px;
+height: 35px;
+left: 597px;
+top: 220px;
+
+font-family: 'Jost';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 35px;
+/* identical to box height */
+
+text-align: center;
+text-transform: uppercase;
+
+color: #156C78;
+
+}
+#line4{
+  position: absolute;
+width: 410px;
+height: 87px;
+left: 596px;
+top: 240px;
+
+font-family: 'Jost';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 29px;
+display: flex;
+align-items: center;
+text-align: center;
+text-transform: capitalize;
+
+color: #156C78;
+}
+.quote{
+  position: absolute;
+width: 476px;
+height: 250px;
+left: 10px;
+top: 400px;
+
+background: #D9D9D9;
+border-radius: 100px;
+}
+.Quo{
+  position: absolute;
+width: 483.03px;
+height: 296.08px;
+left: 11px;
+top: 380px;
+
+font-family: 'Monomaniac One';
+font-style: normal;
+font-weight: 400;
+font-size: 26px;
+line-height: 61px;
+text-align: center;
+text-transform: uppercase;
+
+color: #156C78;
+
+transform: rotate(-0.13deg);
+}
+.Quo1{
+  position: absolute;
+width: 483.03px;
+height: 296.08px;
+left: 11px;
+top: 430px;
+
+font-family: 'Monomaniac One';
+font-style: normal;
+font-weight: 400;
+font-size: 26px;
+line-height: 61px;
+text-align: center;
+text-transform: uppercase;
+
+color: #156C78;
+
+transform: rotate(-0.13deg);
+}
+.Quo2{
+  position: absolute;
+width: 483.03px;
+height: 296.08px;
+left: 11px;
+top: 480px;
+
+font-family: 'Monomaniac One';
+font-style: normal;
+font-weight: 400;
+font-size: 26px;
+line-height: 61px;
+text-align: center;
+text-transform: uppercase;
+
+color: #156C78;
+
+transform: rotate(-0.13deg);
+}
+.Quo3{
+  position: absolute;
+width: 483.03px;
+height: 296.08px;
+left: 11px;
+top: 530px;
+
+font-family: 'Monomaniac One';
+font-style: normal;
+font-weight: 400;
+font-size: 26px;
+line-height: 61px;
+text-align: center;
+text-transform: uppercase;
+
+color: #156C78;
+
+transform: rotate(-0.13deg);
+}
+.Quo4{
+  position: absolute;
+width: 483.03px;
+height: 296.08px;
+left: 11px;
+top: 580px;
+
+font-family: 'Monomaniac One';
+font-style: normal;
+font-weight: 400;
+font-size: 26px;
+line-height: 61px;
+text-align: center;
+text-transform: uppercase;
+
+color: #156C78;
+
+transform: rotate(-0.13deg);
+}
+.table{
+  position: absolute;
+  width: 646px;
+  height: 250px;
+  left: 576px;
+  top: 400px;
+  
+  background: #D9D9D9;
+  border-radius: 30px;
+}
+#app{
+  position: absolute;
+width: 283px;
+height: 43px;
+left: 599px;
+top: 410px;
+
+font-family: 'Monomaniac One';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 43px;
+
+color: #156C78;
+}
+#pat1{
+  position: absolute;
+width: 390px;
+height: 43px;
+left: 599px;
+top: 440px;
+
+font-family: 'Monomaniac One';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 43px;
+
+color: #156C78;
+
+}
+#pat2{
+  position: absolute;
+width: 394px;
+height: 43px;
+left: 599px;
+top: 480px;
+
+font-family: 'Monomaniac One';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 43px;
+
+color: #156C78;
+
+}
+#pat3{
+  position: absolute;
+width: 393px;
+height: 43px;
+left: 593px;
+top: 510px;
+
+font-family: 'Monomaniac One';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 43px;
+
+color: #156C78;
+
+}
+#pat4{
+  position: absolute;
+width: 418px;
+height: 44px;
+left: 599px;
+top: 540px;
+
+font-family: 'Monomaniac One';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 43px;
+
+
+color: #156C78;
+
+}

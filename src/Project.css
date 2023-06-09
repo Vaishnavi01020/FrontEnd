@@ -1,0 +1,172 @@
+.logo
+{
+    width: 100px;
+    height: 100px;
+   margin-top: auto;
+    position:absolute;
+    border-radius: 70px;
+}
+#header{
+  margin-top:75px;
+  padding-left: 110px;
+  font-size:  70px;
+}
+#para{
+position: absolute;
+width: 500px;
+height: 2px;
+left: 40px;
+top: 85px;
+padding-right: 12%;
+background: #EAE4E4;
+border-radius: 40px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+letter-spacing: 0.02em;
+
+color: #000000;
+
+}
+.Doc{
+
+position: absolute;
+width: 300px;
+height: 450px;
+left: 1px;
+bottom: 5px;
+}
+.slogan{
+    position: absolute;
+width: 300px;
+height:100px;
+left: 1px;
+top: 566px;
+}
+#para2{
+position: absolute;
+width: 600px;
+height: 95px;
+left: 670px;
+top: 150px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 30px;
+letter-spacing: 0.02em;
+
+}
+.Icon{
+    box-sizing: border-box;
+    position: absolute;
+    width: 70px;
+    height: 100px;
+    left: 571px;
+    top: 150px;
+}
+.border{
+    position: absolute;
+width: 700px;
+height: 100px;
+left: 559px;
+top: 150px;
+
+background: #EAE4E4;
+}
+#para3{
+    position: absolute;
+width: 600px;
+height: 95px;
+left: 670px;
+top: 250px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 30px;
+letter-spacing: 0.02em;
+}
+.Icon1
+{
+    position: absolute;
+    width: 70px;
+    height: 100px;
+    left: 572px;
+    top: 270px;
+    border-radius: 100px;
+}
+.border1
+{
+    position: absolute;
+width: 700px;
+height: 100px;
+left: 559px;
+top: 270px;
+
+background: #EAE4E4;
+}
+#para4{
+    position: absolute;
+width: 600px;
+height: 95px;
+left: 670px;
+top: 390px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 30px;
+letter-spacing: 0.02em;
+}
+.Icon3{
+    box-sizing: border-box;
+    position: absolute;
+    width: 70px;
+    height: 100px;
+    left: 572px;
+    top: 390px;
+}
+.border2{
+position: absolute;
+width: 700px;
+height: 100px;
+left: 559px;
+top: 390px;
+background: #EAE4E4;
+}
+.Icon4{
+    position: absolute;
+    width: 70px;
+    height: 100px;
+    left: 572px;
+top: 520px;
+border-radius: 100px;
+}
+#para5{
+    position: absolute;
+    width: 600px;
+    height: 95px;
+    left: 670px;
+    top: 510px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 30px;
+    letter-spacing: 0.02em;
+}
+.border3{
+    position: absolute;
+    width: 700px;
+    height: 100px;
+    left: 559px;
+top: 520px;
+
+background: #EAE4E4;
+}
